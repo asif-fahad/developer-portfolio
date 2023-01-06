@@ -71,6 +71,10 @@ nav li {
     margin-bottom: 30px;
 }
 
+.button-header {
+    display: flex;
+}
+
 /* main section */
 main {
     max-width: 1140px;
